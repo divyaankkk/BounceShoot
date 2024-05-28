@@ -16,6 +16,5 @@ Requirements
  Unity 3D
  C# programming knowledge
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/divyaankkk/BounceShoot/blob/main/Images/Game.png))
-
-![alt text]([[https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/divyaankkk/BounceShoot/blob/main/Images/Game.png)](https://github.com/divyaankkk/BounceShoot/blob/main/Images/Win%20Screen.png))
+![alt text](https://github.com/divyaankkk/BounceShoot/blob/main/Images/Game.png)
+![alt text]([https://github.com/divyaankkk/BounceShoot/blob/main/Images/Game.png](https://github.com/divyaankkk/BounceShoot/blob/main/Images/Win%20Screen.png))
